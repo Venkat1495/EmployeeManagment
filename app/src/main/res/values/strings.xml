@@ -1,0 +1,32 @@
+<resources>
+    <!-- activity_about.xml start -->
+    <string name="app_name">Paylog</string>
+    <string name="newEmployee">Add Employee</string>
+    <string name="add_work">Add Work</string>
+    <string name="view_History">View Work log</string>
+    <string name="about">About</string>
+    <!-- common strings -->
+    <string name="common_save">Save</string>
+    <string name="common_name">Name</string>
+    <!-- activity_dash_board.xml start -->
+    <string name="dashboard_pending_amount">Pending Amount</string>
+    <!-- activity_details_entry.xml start -->
+    <string name="details_entry_end_time">End Time</string>
+    <string name="details_entry_work_date">Work Date</string>
+    <string name="details_entry_start_time">Start Time</string>
+    <!-- activity_new_employee.xml start -->
+    <string name="new_employee_first_name">First Name</string>
+    <string name="new_employee_last_name">Last Name</string>
+    <string name="new_employee_hourly_pay">Hourly Pay</string>
+    <!-- activity_settle_payment.xml start -->
+    <string name="settle_payment_settle_work_payment">Settle Work Payment</string>
+    <string name="settle_payment_date">Date</string>
+    <string name="settle_payment_time">Time</string>
+    <string name="settle_payment_amount">Amount</string>
+    <string name="settle_payment_back">Back</string>
+    <string name="settle_payment_settle_up">Settle Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settle_payment_colon">:</string>
+    <string name="dashBoard" translatable="false">Dashboard</string>
+</resources>

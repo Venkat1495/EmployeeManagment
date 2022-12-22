@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paylog</string>
+    <string name="newEmployee">Adicionar Funcionário</string>
+    <string name="add_work">Adicionar trabalho</string>
+    <string name="view_History">Exibir registro de trabalho</string>
+    <string name="common_save">Salvar</string>
+    <string name="common_name">Nome</string>
+    <string name="dashboard_pending_amount">Valor pendente</string>
+    <string name="details_entry_end_time">Fim do tempo</string>
+    <string name="details_entry_work_date">Data de trabalho</string>
+    <string name="details_entry_start_time">hora de início</string>
+    <string name="new_employee_first_name">Primeiro nome</string>
+    <string name="new_employee_last_name">" Sobrenome"</string>
+    <string name="new_employee_hourly_pay">Pagamento por hora</string>
+    <string name="settle_payment_settle_work_payment">Liquidar pagamento de trabalho</string>
+    <string name="settle_payment_date">" Encontro"</string>
+    <string name="settle_payment_time">Tempo</string>
+    <string name="settle_payment_amount">" Quantia"</string>
+    <string name="settle_payment_back">" De volta"</string>
+    <string name="settle_payment_settle_up">" Contentar-se"</string>
+    <string name="hello_blank_fragment">" Olá fragmento em branco"</string>
+    <string name="about">Sobre</string>
+    <string name="settle_payment_colon">:</string>
+</resources>

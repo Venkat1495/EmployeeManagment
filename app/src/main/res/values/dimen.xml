@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardContainer_padding">5dp</dimen>
+    <dimen name="cardHeight">130dp</dimen>
+    <dimen name="cardLanscapeHeight">120dp</dimen>
+    <dimen name="carIconHeight">60dp</dimen>
+    <dimen name="carIconWidth">60dp</dimen>
+    <dimen name="cardIconPadding">10dp</dimen>
+    <dimen name="cardDividerHeight">2dp</dimen>
+    <dimen name="cardViewTextMarginTop">7dp</dimen>
+    <dimen name="cardTextSize">20dp</dimen>
+    <dimen name="homeCardRadius">13dp</dimen>
+
+</resources>

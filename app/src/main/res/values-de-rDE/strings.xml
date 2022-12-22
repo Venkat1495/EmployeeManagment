@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paylog</string>
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+    <string name="about">Um</string>
+    <string name="settle_payment_settle_up">Abrechnen</string>
+    <string name="settle_payment_back">Der Rücken</string>
+    <string name="settle_payment_amount">Menge</string>
+    <string name="settle_payment_time">Zeit</string>
+    <string name="settle_payment_date">Datum</string>
+    <string name="settle_payment_colon">:</string>
+    <string name="settle_payment_settle_work_payment">Arbeitsentgelt abrechnen</string>
+    <string name="new_employee_hourly_pay">Stundensatz</string>
+    <string name="new_employee_last_name">Nachname</string>
+    <string name="new_employee_first_name">Vorname</string>
+    <string name="details_entry_start_time">Startzeit</string>
+    <string name="details_entry_work_date">Arbeitsdatum</string>
+    <string name="details_entry_end_time">Endzeit</string>
+    <string name="dashboard_pending_amount">Ausstehende Summe</string>
+    <string name="common_name">Name</string>
+    <string name="common_save">Speichern</string>
+    <string name="view_History">Arbeitsprotokoll anzeigen</string>
+    <string name="add_work">Arbeit hinzufügen</string>
+    <string name="newEmployee">Mitarbeiter hinzufügen</string>
+</resources>
